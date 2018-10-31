@@ -11,4 +11,4 @@ npm install
 
 ## DEMO
 
-[![Demo](demo/1.gif)](https://i.imgur.com/Xfi3DlT.png)
+[![Demo](demo/loginpage.gif)](https://i.imgur.com/Xfi3DlT.png)
